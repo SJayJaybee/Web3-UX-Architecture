@@ -19,7 +19,7 @@ An objective teardown of traditional DeFi mobile viewports. I conducted this aud
 ---
 
 ### 🟢 Module 2: Zero-Friction Fiat-to-Web3 Checkout (Interactive)
-A 3-screen interactive prototype demonstrating a fully abstracted Web2-to-Web3 retail checkout. I architected this flow to bypass traditional wallet generation entirely, allowing users to authenticate via Google and purchase crypto via Apple Pay in exactly two clicks.
+A 3-screen interactive prototype demonstrating a fully abstracted Web2-to-Web3 retail checkout. I architected this flow to bypass traditional wallet generation entirely, allowing users to authenticate via Google and purchase crypto via Apple/Google/Debit card Pay in exactly two clicks.
 
 * **Tech Stack Simulated:** Account Abstraction (ERC-4337), Social Login, Fiat On-Ramps.
 * **Design Philosophy:** Zero-jargon, institutional-grade dark mode (`#0A192F`), and high-contrast call-to-action pathways designed strictly for conversion.
@@ -33,7 +33,6 @@ Unlike backend data pipelines, UI/UX architecture requires visual proof of conce
 
 * **Public Protocol Audits:** The teardowns featured in this repository (such as the Curve Finance mobile flow) are independent, objective audits of public Web3 protocols. They are designed to highlight industry-wide UI vulnerabilities and showcase my analytical methodology.
 * **Conceptual Architecture:** The frictionless onboarding flows are branded, conceptual prototypes. They simulate ideal retail pathways (like ERC-4337 social logins) to demonstrate how Web3 can achieve Web2 conversion rates.
-* **IP Protection:** You will notice my "SJAYJAYBEE" branding embedded into the prototype screens. This acts as a watermark to protect my conceptual UI architecture from being scraped by competing design agencies.
-
+* **IP Protection:** Please note that my 'SJAYJAYBEE' branding is embedded into the prototype screens. This acts as a watermark to protect my conceptual UI architecture from being scraped by competitors and to establish recognition and awareness.
 ---
 *Architected for mass adoption by SJAYJAYBEE.*
