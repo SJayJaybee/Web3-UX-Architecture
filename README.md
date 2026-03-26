@@ -28,12 +28,12 @@ A 3-screen interactive prototype demonstrating a fully abstracted Web2-to-Web3 r
 
 ---
 
-## 🔒 NDA & Visual Sanitization Protocol
-As a Lead Architect, I frequently work under strict Non-Disclosure Agreements (NDAs) for pre-launch protocols. Please note the following regarding my public design portfolio:
+## 📐 Methodology & Conceptual Prototyping
+Unlike backend data pipelines, UI/UX architecture requires visual proof of concept before writing a single line of React code. Please note the following regarding my design methodology:
 
-* **Anonymized Branding:** The prototypes and case studies linked above utilize dummy logos, placeholder protocol names, and simulated token tickers. This is a deliberate security measure to protect my clients' proprietary mechanics and visual identities. 
-* **Simulated Financial States:** All wallet balances, APY yields, and fiat values shown in the interactive prototypes are purely simulated placeholder data. 
-* **Watermarking:** Certain high-leverage UI flows may feature my personal watermark to prevent unauthorized scraping of my design architecture by competing agencies.
+* **Public Protocol Audits:** The teardowns featured in this repository (such as the Curve Finance mobile flow) are independent, objective audits of public Web3 protocols. They are designed to highlight industry-wide UI vulnerabilities and showcase my analytical methodology.
+* **Conceptual Architecture:** The frictionless onboarding flows are branded, conceptual prototypes. They simulate ideal retail pathways (like ERC-4337 social logins) to demonstrate how Web3 can achieve Web2 conversion rates.
+* **IP Protection:** You will notice my "SJAYJAYBEE" branding embedded into the prototype screens. This acts as a watermark to protect my conceptual UI architecture from being scraped by competing design agencies.
 
 ---
 *Architected for mass adoption by SJAYJAYBEE.*
